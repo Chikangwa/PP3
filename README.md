@@ -280,20 +280,20 @@ If you are running in WSL, make sure to install the `w3m` browser before by exec
 **Answer the following questions:**
 <details>
   <summary>What happens if you exchange the <code>&lt;p&gt;&lt;/p&gt;</code> for <code>&lt;h1&gt;&lt;/h1&gt;</code>?</summary>
-Der te
+Der Text wird Größer und Fett dargestellt.
 </details>
 
 <details>
     <summary>How can you generate a listing of items?</summary>
     <code>
-    ......
+   mit ungeordnete Liste <u1> oder  geordnete <ol>
     </code>
 </details>
 
 <details>
     <summary>How can you create a table in this document?</summary>
     <code>
-    ......
+  
     </code>
 </details>
 
@@ -301,3 +301,4 @@ Der te
 ---
 
 **Remember:** Stop working after 90 minutes and record where you stopped!
+ich habe die Aufbagen interesant gefundne und habe auch vieles dabei gelernt aber cih konnte niocht fertigen. 
